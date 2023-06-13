@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets(77,5): warning : 对路径“c:\users\86153\source\repos\flightreservationsystem\x64\debug\sqlite3.dll”的访问被拒绝。
+  test.cpp
+  testInsertDb.vcxproj -> C:\Users\86153\source\repos\FlightReservationSystem\x64\Debug\testInsertDb.exe
